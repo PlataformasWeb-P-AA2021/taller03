@@ -4,14 +4,20 @@
 ### Problema 1
 * Generar una página HTML que permita su visualización de la siguiente forma.
 
+![img](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/img-replicar.png) 
+
 * En la carpeta problema1, existe un código HTML; debe revisar el mismo y agregar los estilos que crea conveniente.
 
 
 ### Problema 2
 * Generar una página HTML que permita ingresar tres valores a través de etiquetas  ```<input type="text">``` . Como se muestra en la imagen.
-* Los valores ingresados deben ser presentados a través de la consola del nevagador; cuando el usuario presione el botón **Generar Mensaje**
-* Importante para el campo fecha de nacimieto, usted debe usar el **widgets datepicker** de JqueryUI. https://jqueryui.com/datepicker/
+![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/img-ingreso-datos.png) 
 
+* Los valores ingresados deben ser presentados a través de la consola del nevagador; cuando el usuario presione el botón **Generar Mensaje**
+![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/consola.png) 
+
+* Importante para el campo fecha de nacimieto, usted debe usar el **widgets datepicker** de JqueryUI. https://jqueryui.com/datepicker/
+![](https://raw.githubusercontent.com/PlataformasWeb-P-AA2021/taller03/main/images/img-datepicker.png) 
 
 ### Problema 3
 
